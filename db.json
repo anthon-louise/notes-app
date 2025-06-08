@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "Learn React basics from Full Stack Open",
+      "important": true,
+      "date": "2025-06-04T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "content": "Practice using useState for forms",
+      "important": false,
+      "date": "2025-06-04T12:01:00Z"
+    },
+    {
+      "id": "3",
+      "content": "Understand props and components",
+      "important": true,
+      "date": "2025-06-04T12:02:00Z"
+    },
+    {
+      "id": "2678",
+      "content": "dd",
+      "date": "2025-06-07T02:54:58.070Z",
+      "important": false
+    },
+    {
+      "id": "a01e",
+      "content": "dd",
+      "date": "2025-06-08T00:06:51.990Z",
+      "important": true
+    },
+    {
+      "id": "651f",
+      "content": "dd",
+      "date": "2025-06-08T00:06:53.617Z",
+      "important": false
+    }
+  ]
+}
